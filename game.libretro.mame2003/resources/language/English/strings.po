@@ -69,11 +69,11 @@ msgid "TATE Mode"
 msgstr ""
 
 msgctxt "#30013"
-msgid "EXPERIMENTAL: Vector antialias"
+msgid "Vector antialiasing"
 msgstr ""
 
 msgctxt "#30014"
-msgid "Vector beam width"
+msgid "Vector beam width (AA only)"
 msgstr ""
 
 msgctxt "#30015"
@@ -85,7 +85,7 @@ msgid "Vector intensity"
 msgstr ""
 
 msgctxt "#30017"
-msgid "EXPERIMENTAL: Vector resolution multiplier"
+msgid "Vector resolution multiplier (requires restart)"
 msgstr ""
 
 msgctxt "#30018"
