@@ -4,7 +4,7 @@ project(game.libretro.mame2003)
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
 
 find_package(Kodi REQUIRED)
-find_package(libretro-mame2003 REQUIRED)
+find_library(MAME2003_LIB NAMES mame2003_libretro${CMAKE_SHARED_LIBRARY_SUFFIX} PATH_SUFFIXES libretro)
 
 set(MAME2003_CUSTOM_BINARY ${MAME2003_LIB}
     ${PROJECT_NAME}${CMAKE_SHARED_LIBRARY_SUFFIX})
