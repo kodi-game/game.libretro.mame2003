@@ -65,7 +65,7 @@ msgid "Skip Warnings"
 msgstr ""
 
 msgctxt "#30012"
-msgid "TATE Mode"
+msgid "TATE Mode (rotate vertical games by 90 degrees CCW)"
 msgstr ""
 
 msgctxt "#30013"
