@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.mame2003"
 		name="Arcade (MAME 2003)"
-		version="0.78.0.16"
-		provider-name="Libretro">
+		version="0.78.0.17"
+		provider-name="MAMEdev">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
