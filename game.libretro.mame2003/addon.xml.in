@@ -15,9 +15,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en_GB">Arcade (MAME 2003) 0.78</summary>
-		<description lang="en_GB">MAME 0.78 for libretro. Compatible with MAME 0.78 sets.
-
-Supported files: .zip</description>
+		<description lang="en_GB">MAME 0.78 for libretro. Compatible with MAME 0.78 sets.</description>
 		<license>MAME</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.mame2003</source>
