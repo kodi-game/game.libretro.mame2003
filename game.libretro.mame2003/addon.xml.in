@@ -23,5 +23,7 @@
 		</assets>
 		<summary lang="en_GB">Arcade (MAME 2003) 0.78</summary>
 		<description lang="en_GB">MAME 0.78 for libretro. Compatible with MAME 0.78 sets.</description>
+		<description lang="ko_KR">libretro용 MAME 0.78. MAME 0.78 세트와 호환됩니다.</description>
+		<description lang="zh_CN">libretro 的 MAME 0.78。兼容 MAME 0.78 系列。</description>
 	</extension>
 </addon>
