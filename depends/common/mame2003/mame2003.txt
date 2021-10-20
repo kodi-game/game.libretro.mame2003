@@ -1,1 +1,1 @@
-mame2003 https://github.com/libretro/mame2003-libretro/archive/221138d5e527583a82fb89a754ed52decb2a2a6e.tar.gz
+mame2003 https://github.com/libretro/mame2003-libretro/archive/2d9fbd137979bb73a983be56b817cb8f97814909.tar.gz
