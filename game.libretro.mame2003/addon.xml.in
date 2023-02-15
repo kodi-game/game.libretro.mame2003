@@ -23,6 +23,7 @@
 		</assets>
 		<summary lang="en_GB">Arcade (MAME 2003) 0.78</summary>
 		<description lang="da_DK">MAME 0.78 til libretro. Kompatibel med MAME 0.78 sæt.</description>
+		<description lang="de_DE">MAME 0.78 für libretro. Kompatibel mit MAME 0.78 Sets.</description>
 		<description lang="en_GB">MAME 0.78 for libretro. Compatible with MAME 0.78 sets.</description>
 		<description lang="es_ES">MAME 0.78 para libretro. Compatible con los juegos de MAME 0.78.</description>
 		<description lang="it_IT">MAME 0,78 per libretro. Compatibile con i set MAME 0,78.</description>
