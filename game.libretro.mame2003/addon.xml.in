@@ -22,6 +22,7 @@
 			<icon>resources/icon.png</icon>
 		</assets>
 		<summary lang="en_GB">Arcade (MAME 2003)</summary>
+		<summary lang="es_ES">Arcade (MAME 2003)</summary>
 		<description lang="da_DK">MAME 0.78 til libretro. Kompatibel med MAME 0.78 sæt.</description>
 		<description lang="de_DE">MAME 0.78 für libretro. Kompatibel mit MAME 0.78 Sets.</description>
 		<description lang="en_GB">MAME 0.78 for libretro. Compatible with MAME 0.78 sets.</description>
